@@ -1,0 +1,29 @@
+{
+    "name": "binned-stacked-inventory",
+    "homepage": "https://github.com/khrome/binned-stacked-inventory",
+    "version": "0.0.1",
+    "main": "inventory.js",
+    "description": "A stacked inventory system that stores by type",
+    "keywords": [
+        "voxeljs",
+        "inventory"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/binned-stacked-inventory/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/binned-stacked-inventory.git"
+    },
+    "dependencies": {
+        "extended-emitter": "*"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
